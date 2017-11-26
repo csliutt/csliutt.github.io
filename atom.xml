@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-11-26T06:09:28.085Z</updated>
+  <updated>2017-11-26T09:15:44.552Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,17 +21,16 @@
     <link href="http://yoursite.com/2017/11/24/test/"/>
     <id>http://yoursite.com/2017/11/24/test/</id>
     <published>2017-11-24T09:51:58.000Z</published>
-    <updated>2017-11-26T06:09:28.085Z</updated>
+    <updated>2017-11-26T09:15:44.552Z</updated>
     
-    <content type="html"><![CDATA[<p>how are you these days?</p><p>I‘m fine!</p>]]></content>
+    <content type="html"><![CDATA[<p>how are you these days?</p><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><p>I‘m fine!<br><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$bash</span><br></pre></td></tr></table></figure></p>]]></content>
     
     <summary type="html">
     
       
       
         &lt;p&gt;how are you these days?&lt;/p&gt;
-&lt;p&gt;I‘m fine!&lt;/p&gt;
-
+&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Crea
       
     
     </summary>
