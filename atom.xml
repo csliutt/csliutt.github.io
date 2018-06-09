@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2017-12-03T10:39:07.943Z</updated>
+  <updated>2018-06-09T08:35:44.972Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,28 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>14-人脸活体检测综述</title>
+    <link href="http://yoursite.com/2018/06/09/%E4%BA%BA%E8%84%B8%E6%B4%BB%E4%BD%93%E6%A3%80%E6%B5%8B%E7%BB%BC%E8%BF%B0/"/>
+    <id>http://yoursite.com/2018/06/09/人脸活体检测综述/</id>
+    <published>2018-06-09T08:36:48.000Z</published>
+    <updated>2018-06-09T08:35:44.972Z</updated>
+    
+    <content type="html"><![CDATA[<p>2018年6月8日</p><p><strong>1. Frequency and Texture based analysis(基于频率和纹理的分析) </strong>\\<br>   ——G. Kim, S.Eum, J. K. Suhr, D. I. Kim, K. R. Park, and J, Kim, Face liveness detection based on texture and frequency analyses.2012<br>   <img src="http://p1o372g7u.bkt.clouddn.com/062c7a89-f0a3-44e2-9389-41cbae172423" alt="图片描述"></p><p><strong>2. Variable Focusing based analysis(基于变量集中分析)</strong>\\<br>   ——sooyeon Kim, Sunjin Yu, Kwangtaek Kim, Yuseok Ban, Sangyoun Lee, Face liveness detection using variable focusing. 2013</p><p><strong>3. Movement of the eyes based analysis(基于眼睛移动的分析)</strong>\\<br>   ——2006 H. K. Jee, S. U. Jung, and J. H. Yoo, Liveness detection for embedded face recognition system. 2006<br>   <img src="http://p1o372g7u.bkt.clouddn.com/b278abc7-3653-4e9d-b9e7-797d183f3bbb" alt="图片描述"></p><p><strong>4. Optical Flow based analysis(光流法分析)</strong>\\<br>   —–Wei Bao, Hong Li, Nan Li, and Wei Jiang, A liveness detection method for face recognition based on optical flow field. 2009</p><p><strong>5. Blinking based analysis(基于眨眼分析)</strong>\\<br>   —–Lin Sun, Gang Pan, Zhaohui Wu, Shihong Lao, Blinking-Based Live Face Detection Using<br>   Conditional Random Fields.2007</p><p><strong>6. Component Dependent Descriptor based analysis(基于组件相关描述符的分析)</strong>\\<br>   —–Jianwei Yang, Zhen Lei, Shengcai Liao, Li, S.Z, Face Liveness Detection with Component<br>   Dependent Descriptor. 2013</p><p><strong>7. 3D Face Shape based analysis（基于3D人脸模型分析）</strong>\\<br>   ——Andrea Lagorio, Massimo Tistarelli, Marinella Cadoni, Liveness Detection based on 3D Face Shape Analysis, Biometrics and Forensics (IWBF), 2013 International Workshop on Page(s): 1-4, 2013.</p><p><strong>8. Binary Classification based analysis（二分类分析）</strong>\\<br>    ——X. Tan, Y. Li, J. Liu, and L. Jiang, Face liveness detection from a single image with sparse low rank bilinear discriminative model, in ECCV, 2010</p><p><strong>9. Scenic Clues based analysis（多情景分析）</strong>\\<br>   —–J. Yan, Z. Zhang, Z. Lei, D. Yi, and S. Z. Li, Face liveness detection by exploring multiple scenic clues, In ICARCV 2012, 2012.</p><p><strong>10. Lip Movement based analysis（基于嘴唇移动分析）</strong>\\<br>    ——K. Kollreider, H. Fronthaler, M. I. Faraj, and J. Bigun, Real-time face detection and motion analysis with application , 2007</p><p><strong>11. Context based analysis（基于背景分析）</strong>\\<br>    ——Jukka Komulainen, Abdenour Hadid, Matti Pietikainen, Context based Face Anti-Spoofing,<br>    Biometrics. 2013</p><p><strong>12. Combination of Standard Techniques based analysis（基于标准技术的组合分析）</strong>\\<br>    ——K. Kollreider, H. Fronthaler, and J. Bigun, Verifying Liveness by Multiple Experts in Face Biometrics. 2008</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;2018年6月8日&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;1. Frequency and Texture based analysis(基于频率和纹理的分析) &lt;/strong&gt;\\&lt;br&gt;   ——G. Kim, S.Eum, J. K. Suhr, D. I. Kim, K.
+      
+    
+    </summary>
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
@@ -67,28 +89,6 @@
     <updated>2017-11-22T13:41:46.312Z</updated>
     
     <summary type="html">
-    
-    </summary>
-    
-    
-  </entry>
-  
-  <entry>
-    <title>14-人脸活体检测综述</title>
-    <link href="http://yoursite.com/2017/11/22/%E4%BA%BA%E8%84%B8%E6%B4%BB%E4%BD%93%E6%A3%80%E6%B5%8B%E7%BB%BC%E8%BF%B0/"/>
-    <id>http://yoursite.com/2017/11/22/人脸活体检测综述/</id>
-    <published>2017-11-22T13:41:46.000Z</published>
-    <updated>2018-06-09T08:32:30.470Z</updated>
-    
-    <content type="html"><![CDATA[<p>2018年6月8日</p><p><strong>1. Frequency and Texture based analysis(基于频率和纹理的分析) </strong>\\<br>   ——G. Kim, S.Eum, J. K. Suhr, D. I. Kim, K. R. Park, and J, Kim, Face liveness detection based on texture and frequency analyses.2012<br>   <img src="http://p1o372g7u.bkt.clouddn.com/062c7a89-f0a3-44e2-9389-41cbae172423" alt="图片描述"></p><p><strong>2. Variable Focusing based analysis(基于变量集中分析)</strong>\\<br>   ——sooyeon Kim, Sunjin Yu, Kwangtaek Kim, Yuseok Ban, Sangyoun Lee, Face liveness detection using variable focusing. 2013</p><p><strong>3. Movement of the eyes based analysis(基于眼睛移动的分析)</strong>\\<br>   ——2006 H. K. Jee, S. U. Jung, and J. H. Yoo, Liveness detection for embedded face recognition system. 2006<br>   <img src="http://p1o372g7u.bkt.clouddn.com/b278abc7-3653-4e9d-b9e7-797d183f3bbb" alt="图片描述"></p><p><strong>4. Optical Flow based analysis(光流法分析)</strong>\\<br>   —–Wei Bao, Hong Li, Nan Li, and Wei Jiang, A liveness detection method for face recognition based on optical flow field. 2009</p><p><strong>5. Blinking based analysis(基于眨眼分析)</strong>\\<br>   —–Lin Sun, Gang Pan, Zhaohui Wu, Shihong Lao, Blinking-Based Live Face Detection Using<br>   Conditional Random Fields.2007</p><p><strong>6. Component Dependent Descriptor based analysis(基于组件相关描述符的分析)</strong>\\<br>   —–Jianwei Yang, Zhen Lei, Shengcai Liao, Li, S.Z, Face Liveness Detection with Component<br>   Dependent Descriptor. 2013</p><p><strong>7. 3D Face Shape based analysis（基于3D人脸模型分析）</strong>\\<br>   ——Andrea Lagorio, Massimo Tistarelli, Marinella Cadoni, Liveness Detection based on 3D Face Shape Analysis, Biometrics and Forensics (IWBF), 2013 International Workshop on Page(s): 1-4, 2013.</p><p><strong>8. Binary Classification based analysis（二分类分析）</strong>\\<br>    ——X. Tan, Y. Li, J. Liu, and L. Jiang, Face liveness detection from a single image with sparse low rank bilinear discriminative model, in ECCV, 2010</p><p><strong>9. Scenic Clues based analysis（多情景分析）</strong>\\<br>   —–J. Yan, Z. Zhang, Z. Lei, D. Yi, and S. Z. Li, Face liveness detection by exploring multiple scenic clues, In ICARCV 2012, 2012.</p><p><strong>10. Lip Movement based analysis（基于嘴唇移动分析）</strong>\\<br>    ——K. Kollreider, H. Fronthaler, M. I. Faraj, and J. Bigun, Real-time face detection and motion analysis with application , 2007</p><p><strong>11. Context based analysis（基于背景分析）</strong>\\<br>    ——Jukka Komulainen, Abdenour Hadid, Matti Pietikainen, Context based Face Anti-Spoofing,<br>    Biometrics. 2013</p><p><strong>12. Combination of Standard Techniques based analysis（基于标准技术的组合分析）</strong>\\<br>    ——K. Kollreider, H. Fronthaler, and J. Bigun, Verifying Liveness by Multiple Experts in Face Biometrics. 2008</p>]]></content>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;p&gt;2018年6月8日&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;1. Frequency and Texture based analysis(基于频率和纹理的分析) &lt;/strong&gt;\\&lt;br&gt;   ——G. Kim, S.Eum, J. K. Suhr, D. I. Kim, K.
-      
     
     </summary>
     
